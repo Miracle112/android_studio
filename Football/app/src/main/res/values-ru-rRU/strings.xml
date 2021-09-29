@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Подпищики</string>
+    <string name="text_button">+1 Подпищик</string>
+    <string name="button_reset">Сброс</string>
+    <string name="code_geass">Код Гиас</string>
+    <string name="fairy_tail">Хвост Феи</string>
+    <string name="delimiter">:</string>
+    <string name="number_Geass">0</string>
+    <string name="number_FT">0</string>
+</resources>
